@@ -1,4 +1,11 @@
-### Hi there 👋
+👋 
+
+My name is Waqar Zahour, I'm an iOS engineer. I love learning and sharing knowledge. 
+
+-----
+
+- 🔭 I’m currently working on Swift UI App.
+- 🌱 I build stuff
 
 <!--
 **WaqarZahour/WaqarZahour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
