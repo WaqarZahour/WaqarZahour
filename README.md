@@ -6,6 +6,7 @@ My name is Waqar Zahour, I'm an iOS engineer. I love learning and sharing knowle
 
 - 🔭 I’m currently working on Swift UI App.
 - 🌱 I build stuff
+- 📫 Reach me: waqar.zahour@gmail.com
 
 <!--
 **WaqarZahour/WaqarZahour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
